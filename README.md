@@ -66,6 +66,9 @@ $form = @{
 }
 Invoke-RestMethod -Uri $uri -Method Post -Form $form
 ```
+![WhatsApp Image 2025-06-03 at 02 27 46_28901752](https://github.com/user-attachments/assets/ba77c399-f2c1-4cf5-b507-3afb38275f73)
+![WhatsApp Image 2025-06-03 at 02 28 02_446c9f19](https://github.com/user-attachments/assets/ec18f20a-ea69-4688-a08a-2d4b73649c07)
+
 
 2. Title Suggestions (using PowerShell):
 ```powershell
